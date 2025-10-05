@@ -1,0 +1,9 @@
+# Archivos y carpetas generados por la compilación
+build/
+*.o
+
+# Archivos específicos del editor o sistema operativo (opcional pero recomendado)
+.vscode/
+*.swp
+*~
+.DS_Store
